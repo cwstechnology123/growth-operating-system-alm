@@ -1,0 +1,1773 @@
+/* --------------------Miscellaneous Tools code css ------------------ */
+.ms-text-right {
+  text-align: right;
+}
+.ms-text-left{
+  text-align: left;
+}
+.ms-text-center {
+  text-align: center;
+}
+.al-mt-135 {
+  margin-top: 135px;
+}
+.data1 {
+  width: 32%;
+  }
+  .data2 {
+  width: 50%;
+  }
+  .data3 {
+  width: 18%;
+  }
+  .form-control12 {
+  width: 100%;
+  height: 100%;
+  padding: 13px 10px;
+  margin: 0;
+  border-radius: 10px 10px 0px 0px;
+  border: 0;
+  background-color: #8497b0;
+  color: #fff;
+  }
+  .form-control12::placeholder {
+  color: #fff;
+  font-size: 14px;
+  font-weight: 500;
+  }
+.table-dta .table thead th {
+    border-bottom: 0.0625rem solid #EEEEEE;
+    text-transform: capitalize;
+    font-size: 1.125rem;
+    white-space: nowrap;
+    font-weight: 500;
+    letter-spacing: 0.0313rem;
+}
+
+
+.table-dta th.thead-primary {
+    background-color: #44546a;
+}
+.table-dta #thbgcolorPrimary td{
+  background-color: #44546a;
+  color: #fff;
+}
+
+/* --------------------Miscellaneous Tools code css ------------------ */
+
+/* -------------------- okr template code css ------------------ */
+.color-y {
+    background-color: yellow!important;
+    color: #000!important;
+}
+.color-g {
+    background-color: #82ca82!important;
+}
+.color-hr {
+    background-color: #ffc48e!important;
+}
+.color-hg {
+    background-color: #c2e4c2!important;
+}
+.color-md {
+    background-color: #bee594!important;
+}
+.color-r {
+    background-color: #ff9c7f!important;
+}
+.color-n {
+    background-color: rgb(106, 170, 228)!important;
+}
+/* -------------------- okr template code css ------------------ */
+
+/* -------------------- aida marketing code css ------------------ */
+.bg-dark-cs {
+    background-color: #2e3c4e!important;
+    color: #fff;
+    text-align: left;
+}
+.text-center-cs {
+  text-align: center!important;
+  font-weight: 600!important;
+  font-size: 22px!important;
+}
+.aida-marketing-model-cls tr th {
+    text-align: center;
+    font-size: 50px;
+    height: 100px!important;
+    background-color: #000!important;
+}
+.aida-marketing-model-cls tr td:nth-child(2) {
+    background-color: rgb(68, 84, 106)!important;
+    color: #fff;
+    font-size: 20px;
+}
+.aida-marketing-model-cls tr td:nth-child(3) {
+    background-color: rgb(132, 151, 176)!important;
+    color: #fff;
+    font-size: 15px;
+    font-weight: 500;
+}
+/* -------------------- aida marketing code css ------------------ */
+
+/* -------------------- Focused-Meeting-Planner code css ------------------ */
+
+.bg-color1 {
+  background-color: rgb(68, 84, 106)!important;
+}
+.bg-color2 {
+  background-color: rgb(214, 220, 228)!important;
+}
+.bg-color3 {
+  background-color: rgb(132, 151, 176)!important;
+}
+.bg-color4 {
+  background-color: rgb(244, 176, 130)!important;
+}
+.bg-color5 {
+  background-color: rgb(34, 42, 52)!important;
+}
+.bg-color6 {
+  background-color: rgb(171 181 195)!important;
+}
+.bg-color6 {
+  background-color: rgb(171 181 195)!important;
+}
+.bg-color7 {
+  background-color: #fff!important;
+}
+.text-font-size-16 {
+  font-weight: 600!important;
+  font-size: 16px!important;
+}
+.text-font-size-15 {
+  font-weight: 500!important;
+  font-size: 15px!important;
+  color: #000!important;
+}
+.text-font-size-14 {
+  font-weight: 500!important;
+  font-size: 14px!important;
+}
+.text-font-size-50 {
+  font-size: 50px!important;
+}
+.text-center-c {
+  text-align: center!important;
+}
+.Focused-Meeting-Planner2 {
+  margin-top: 40px!important;
+}
+
+.padding-15 {
+  padding: 15px!important;
+}
+.padding-10 {
+  padding: 10px!important;
+}
+.Focused-planning-f {
+  padding: 0;
+  margin: 0;
+}
+.fucus-pla {
+  width: 100%;
+  height: 100%;
+  display: block;
+  padding: 15px 20px;
+  margin: 0;
+  border: 0;
+  border-radius: 0;
+  background-color: #f4b082;
+}
+.fucus-pla::placeholder {
+  color: #fff;
+  font-size: 15px;
+  font-weight: 500;
+}
+.fucus-pla[type=text]{
+  color: #fff;
+  font-size: 15px;
+  font-weight: 500;
+}
+.fucus-pla:focus {
+  background-color: #44546a;
+}
+.padding-0 {
+  padding: 0!important;
+}
+.card-body ul li a:hover {
+  color: #297cf8;
+}
+.width-5 {
+  width: 5%!important;
+}
+.width-10 {
+  width: 10%!important;
+}
+.width-6 {
+  width: 6%!important;
+}
+.width-20 {
+  width: 20%!important;
+}
+.width-25 {
+  width: 25%!important;
+}
+.width-35 {
+  width: 35%!important;
+}
+.width-30 {
+  width: 30%!important;
+}
+.width-15 {
+  width: 15%!important;
+}
+.width-50 {
+  width: 50%!important;
+}
+.width-70 {
+  width: 70%!important;
+}
+.width-100 {
+  width: 100%!important;
+}
+.d-hidden {
+  visibility: hidden;
+}
+
+/* -------------------- Focused-Meeting-Planner code css ------------------ */
+
+/* -------------------- hypothesis-issuetree code css ------------------ */
+.possition-on-d {
+  position: relative;
+}
+.border-sapecing {
+    border-spacing: 35px 8px!important;
+}
+.over-div {
+    background-color: rgb(214, 220, 229);
+    color: #fff;
+    width: 30px;
+    height: 165px;
+    position: absolute;
+    top: 0;
+    left: -33px;
+    z-index: 1;
+    clip-path: polygon(100% 0, 100% 50%, 100% 100%, 0% 50%);
+}
+.hypothesis-main-div th, .hypothesis-main-div td {
+    border-color: #f5f5f5;
+    padding: 0rem 0.625rem;
+    line-height: 16px;
+    height: 35px!important;
+    vertical-align: middle;
+}
+.bg-color-blacl {
+  color: #000!important;
+}
+.padding-15-10 {
+  padding: 15px 10px!important;
+}
+.text-font-size-12 {
+  font-size: 12px!important;
+}
+/* -------------------- hypothesis-issuetree code css ------------------ */
+
+/* -------------------- decision-matrix code css ------------------ */
+.border-bottom-0 {
+  border-bottom: 0!important;
+}
+tr.suuppport-tr td {
+    font-size: 24px;
+    font-weight: 600;
+    height: 65px;
+    line-height: 65px;
+    text-align: center;
+}
+.suuppport-tr2 {
+  position: relative;
+}
+
+.middle-div-s {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    background: #fff;
+    padding: 6px 0;
+    margin: 0;
+}
+
+.inner-div1 {
+    width: 30%;
+    display: block;
+    text-align: center;
+}
+
+.inner-div2 {
+    width: 70%;
+    height: 60px;
+    background-color: rgb(68, 157, 209);
+    clip-path: polygon(0% 16%, 83% 18%, 83% 0%, 100% 50%, 83% 99%, 83% 80%, 0% 80%);
+}
+.suuppport-tr2 td {
+  padding: 0!important;
+  margin: 0!important;
+  background-color: #fff!important;
+}
+.inner-div3 {
+    width: 70%;
+    height: 60px;
+    background-color: rgb(192, 0, 0);
+    clip-path: polygon(16% 0%, 16% 20%, 100% 20%, 100% 80%, 16% 80%, 16% 100%, 0% 50%);
+}
+.table2-css tr td {
+  height: 30px!important;
+}
+.text-right-r {
+  text-align: right!important;
+}
+.losses-table-div td {
+  padding: 0!important;
+  margin: 0!important;
+  background-color: #fff!important;
+}
+.content-bt-div {
+  text-align: left;
+  padding: 20px 5px!important;
+}
+.content-bt-div h2 {
+  font-size: 13px;
+  color: #000;
+  font-weight: 600;
+}
+.content-bt-div ul li {
+  color: #000;
+  font-size: 13px;
+  font-weight: 500;
+  margin-bottom: 4px;
+}
+
+/* -------------------- decision-matrix code css ------------------ */
+
+/* -------------------- risk-assessment.html code css ------------------ */
+.bg-color01 {
+  background-color: #222a34!important;
+}
+.text-title-vender {
+    display: inline-block;
+    text-align: right;
+    float: right;
+    line-height: 50px;
+}
+.height80 {
+  height: 80px!important;
+}
+.height60 {
+  height: 60px!important;
+}
+/* -------------------- risk-assessment.html code css ------------------ */
+
+/* -------------------- adl matrix code css ------------------ */
+.adl-matrix-color-bg {
+    background-color: #44546a!important;
+}
+.font-size-20{
+  font-size: 20px!important;
+}
+/* -------------------- adl matrix code css ------------------ */
+
+/* -------------------- Four Forces of Value code css ------------------ */
+.forces-span {
+  margin-left: 20px;
+  font-size: 18px;
+}
+.forces-div2 {
+    text-align: right;
+}
+.forces-span2 {
+  margin-right: 20px;
+  font-size: 18px;
+}
+.add-position-cls {
+  position: relative!important;
+  text-align: center;
+}
+span.style-ctn {
+    writing-mode: tb;
+    font-size: 18px;
+    text-align: center;
+    align-items: center;
+}
+span.style-ctn1 {
+    writing-mode: tb;
+    font-size: 18px;
+    text-align: center;
+    align-items: center;
+    transform: rotate(180deg);
+}
+.height30{
+  height: 30px!important;
+}
+span.rotate-tex {
+    writing-mode: tb-rl;
+    font-size: 15px;
+}
+.font-size-18 {
+  font-size: 18px!important;
+}
+
+/* -------------------- Four Forces of Value code css ------------------ */
+
+/* -------------------- comman css code css ------------------ */
+.border-sapecing1{
+  border-spacing: 25px 40px;
+}
+.position-relative-div {
+  position: relative!important;
+}
+.position-relative-div td:before {
+    /*content: "";
+    width: 368px;
+    height: 2px;
+    display: block;
+    background-color: #44546a;
+    position: absolute;
+    bottom: -22px;
+    left: 9pc;
+    transform: rotate(-6deg);*/
+      content: "";
+    width: 210px;
+    height: 2px;
+    display: block;
+    background-color: #44546a;
+    position: absolute;
+    bottom: -22px;
+    left: 19pc;
+    transform: rotate(-12deg);
+}
+.position-relative-div td:after {
+    content: "";
+    width: 210px;
+    height: 2px;
+    display: block;
+    background-color: #44546a;
+    position: absolute;
+    bottom: -22px;
+    right: 19pc;
+    transform: rotate(12deg);
+}
+.addline:before {
+    /*content: "";
+    width: 38px;
+    height: 2px;
+    display: block;
+    background-color: #44546a;
+    position: absolute;
+    bottom: 69px;
+    left: 132px;
+    transform: rotate(-90deg);*/
+    content: "";
+    width: 47px;
+    height: 2px;
+    display: block;
+    background-color: #44546a;
+    position: absolute;
+    bottom: 68px;
+    left: 126px;
+    transform: rotate(-90deg);
+}
+.addline3:before {
+    content: "";
+    width: 38px;
+    height: 2px;
+    display: block;
+    background-color: #44546a;
+    position: absolute;
+    top: 65px;
+    left: 132px;
+    transform: rotate(-90deg);
+}
+.add-new-card {
+    height: 400px;
+    overflow-x: auto;
+}
+.add-new-card::-webkit-scrollbar {
+    background-color: #f5f5f5;
+    width: 0.5rem;
+    height: 0.5rem;
+}
+
+.add-new-card::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 0.375rem rgba(0, 0, 0, 0.3);
+    border-radius: 0.625rem;
+    background-color: #f5f5f5; 
+}
+
+.add-new-card::-webkit-scrollbar-thumb {
+    border-radius: 0.625rem;
+    -webkit-box-shadow: inset 0 0 0.375rem rgba(0, 0, 0, 0.3);
+    background-color: #44546a; 
+}
+.contentleft h4 {
+  line-height: 24px!important;
+}
+.bg-color07 {
+  background-color: rgb(77, 171, 218)!important;
+}
+
+.margin-top-80 {
+    margin-top: -80px!important;
+    display: block!important;
+}
+.add-new-class-height td {
+  height: 22px!important;
+  padding: 3px;
+  text-align: center;
+  font-size: 11px;
+}
+/* -------------------- comman css code css ------------------ */
+
+/* -------------------- Project Prioritization Matrix code css ------------------ */
+.imag-ppm-d {
+  width: 130px;
+  margin: auto;
+  display: block;
+  text-align: center;
+}
+.imag-ppm-d img {
+  width: 100%;
+  height: 100%;
+  text-align: center;
+}
+.add-new-cla-ppm {
+  padding: 12px 10px;
+}
+/* -------------------- Project Prioritization Matrix code css ------------------ */
+
+/* -------------------- Synergy Scoring Worksheet code css ------------------ */
+.ssw-div {
+    width: 40px;
+    margin: auto;
+}
+strong.sales-marketing {
+    writing-mode: tb-rl;
+}
+/* -------------------- Synergy Scoring Worksheet code css ------------------ */
+
+/* -------------------- Innovate Or Optimize code css ------------------ */
+.outr-div {
+    width: 190px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.outr-div4 {
+    width: 220px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.Optimize-ioo {
+  display: block;
+  width: 280px;
+}
+/* -------------------- Innovate Or Optimize code css ------------------ */
+
+/* -------------------- Innovation Concept Development code css ------------------ */
+.image-id {
+    text-align: center;
+    width: 50px;
+    height: auto;
+}
+.image-id img {
+  width: 100%;
+  height: 100%;
+}
+.icd-contetn {
+    width: 150px;
+    display: block;
+    height: auto;
+}
+.icd-contetn2 {
+    width: 753px;
+    display: block;
+    height: auto;
+}
+.ic-Development-inp {
+  height: 100%;
+  width: 80px;
+}
+/* -------------------- Innovation Concept Development code css ------------------ */
+
+/* -------------------- SCAMPER Ideation code css ------------------ */
+.characters-si {
+    font-size: 56px;
+    text-align: center;
+    color: #fff;
+    font-weight: 600;
+    display: block;
+    width: 70px;
+    margin: 0;
+}
+.icd-description {
+  display: block;
+  width: 350px;
+  height: auto;
+}
+/* -------------------- SCAMPER Ideation code css ------------------ */
+
+/* -------------------- PAINstorming code css ------------------ */
+.pain-title-h {
+    font-size: 56px;
+    text-align: center;
+    color: #fff;
+    font-weight: 600;
+    display: block;
+    margin: 0;
+    width: 80px;
+}
+.pain_div_main {
+    width: 100px;
+}
+.pain-pera {
+    width: 10em;
+    margin: auto;
+    height: auto;
+    display: block;
+} 
+.pain-pera p {
+  margin: 0;
+  line-height: 1.2em;
+}
+.pain_div_main .pain-ttile {
+  padding-bottom: 8px;
+}
+/* -------------------- PAINstorming code css ------------------ */
+
+/* -------------------- Outcome Driven Innovation code css ------------------ */
+.od-innovations {
+  width: 50px;
+  display: block;
+}
+.steps-title {
+  display: block;
+  width: 80px;
+}
+.define-the-marketing {
+  width: 162.92px;
+  display: block;
+}
+.height-set-this-td td {
+  height: 350px!important;
+}
+/* -------------------- Outcome Driven Innovation code css ------------------ */
+
+/* -------------------- Six Thinking Hats code css ------------------ */
+.topic-focus-title {
+  display: block;
+  width: 350px;
+}
+.six-thinking-form {
+  width: 652px!important;
+  display: block;
+}
+.white-hats {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    width: 22em;
+    height: auto;
+}
+
+.White-Hat-title {
+    font-size: 16px;
+    margin-left: 4em;
+}
+.cell-title-d {
+  display: block;
+  width: 20px;
+}
+/* -------------------- Six Thinking Hats code css ------------------ */
+
+/* -------------------- Agile Innovation code css ------------------ */
+.white-hats-agile {
+    width: 18em;
+    height: auto;
+}
+.white-hats-agile {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.White-Hat-title-agile {
+    font-size: 16px;
+}
+/* -------------------- Agile Innovation code css ------------------ */
+
+/* -------------------- Innovation Ranking Matrix code css ------------------ */
+.extra-width {
+  width: 22rem;
+  display: block;
+  padding: 10px 0;
+}
+.extra-width p {
+  margin-bottom: 0;
+  line-height: 1.2em;
+  font-size: 1em!important;
+}
+.innovation-matrix-d {
+  width: 4em;
+}
+.innovation-matrix-outer .pain-pera {
+  width: 8em!important;
+}
+.innovation-matrix-outer strong {
+  margin-bottom: 0.5em;
+  display: block;
+}
+/* -------------------- Innovation Ranking Matrix code css ------------------ */
+
+/* -------------------- Insights to Action to Impact Worksheet code css ------------------ */
+.insights-to-action {
+    width: 36em;
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.insights-to-action-d {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.insights-title {
+    font-size: 18px;
+}
+.insightswidth-set {
+    width: 16rem;
+    height: 139px;
+}
+.images-pa-insight {
+  display: block;
+  width: 30px;
+}
+/* -------------------- Insights to Action to Impact Worksheet code css ------------------ */
+
+/* -------------------- Disruptive Innovation code css ------------------ */
+.disruptive-d {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column-reverse;
+    width: 14em;
+}
+/* -------------------- Disruptive Innovation code css ------------------ */
+
+/* -------------------- 7-Step Case for Change code css ------------------ */
+.change-title {
+    line-height: 1.2em;
+    margin-bottom: 0.5em;
+}
+.case-for-change-main-div ul li {
+    line-height: 1.6em;
+}
+.step-case-description {
+  display: block;
+  width: 230px;
+  height: auto;
+  padding: 10px 0;
+}
+.step-case-contetn2 {
+  width: 38em;
+  display: block;
+  height: auto;
+}
+/* -------------------- 7-Step Case for Change code css ------------------ */
+
+/* -------------------- 7-Step Case for Change code css ------------------ */
+.optimization-div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 22.9rem;
+    height: auto;
+}
+/* -------------------- 7-Step Case for Change code css ------------------ */
+
+/* -------------------- Target Account List Prioritization code css ------------------ */
+.target-account {
+    display: block;
+    width: 20em;
+}
+.list-decimal {
+  padding-left: 30px!important;
+}
+.list-decimal .lsit-one {
+    list-style-type: decimal;
+}
+.target-account-main-tr .Focused-planning-f .fucus-pla{
+  padding: 12px 20px!important;
+}
+
+/* -------------------- Target Account List Prioritization code css ------------------ */
+
+/* -------------------- target-account-planning code css ------------------ */
+.sub_number {
+    width: 44px;
+    display: flex;
+    justify-content: space-between;
+}
+.target-acc {
+    display: block;
+    width: 13em;
+}
+.target-acc1 {
+    display: block;
+    width: 12em;
+}
+/* -------------------- target-account-planning code css ------------------ */
+
+/* -------------------- Create Competitive Advantage code css ------------------ */
+.values-div1 {
+  font-size: 0.8em;
+  line-height: 1.3em;
+}
+.outr-div1 {
+    display: flex;
+    align-items: center;
+    padding: 5px 0;
+}
+.content-ioo-values {
+  margin-left: 1.3em;
+}
+.values-div2 {
+    display: block;
+    width: 8em;
+}
+.values-potential {
+    display: block;
+    width: 18em;
+    text-align: center;
+    font-size: 0.8em;
+} 
+.values-first {
+  font-size: 1.5em;
+  font-weight: 600;
+  margin-top: 1em;
+  margin-left: 1.2em;
+  display: block;
+}
+
+.values-form-deve {
+    width: 100%;
+    display: block;
+    padding: 0;
+    margin: 0;
+}
+
+.values-form-deve input {
+    width: 100%!important;
+    border-radius: 0;
+    font-size: 1.2em!important;
+    padding: 0 1.2em;
+    background-color: rgb(244, 176, 130)!important;
+}
+.values-form-deve input[type="text"] {
+  color: #fff!important;
+}
+.values-form-deve input:focus {
+  background-color: rgb(68, 84, 106)!important;
+  border-radius: 0!important;
+}
+
+
+/* -------------------- Create Competitive Advantage code css ------------------ */
+
+/* -------------------- Customer Retention Loop code css ------------------ */
+.customer-table {
+  border-radius: 0!important;
+}
+.curtomer-row {
+  padding: 5em 0;
+  background-color: #fff;
+  margin: 0!important;
+}
+.image-customer {
+    display: block;
+    text-align: center;
+}
+.image-customer.graph-bx {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+.cs-font-size {
+  font-size: 1em!important;
+  line-height: 1.2em!important;
+}
+.customer-div {
+    display: block;
+    width: 16.9em;
+    background-color: #fff;
+    color: #000;
+    font-size: 1.3em;
+}
+/* -------------------- Customer Retention Loop code css ------------------ */
+
+/* -------------------- Net Promoter Score code css ------------------ */
+.number-line-main {
+    width: 100%;
+    display: block;
+    padding: 0;
+    margin: 0;
+    position: relative;
+}
+
+.title-numer {
+    text-align: center;
+    display: block;
+    font-size: 1.2em;
+    font-weight: 500;
+    color: #000;
+}
+
+.border-overlay {
+    border: 0.1em #000;
+    border-style: dashed;
+    height: 1em;
+    border-bottom: 0;
+}
+.numberdiv {
+    width: 6em;
+    height: 6em;
+    border: 1px solid #e5e5e5;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50px;
+    background-color: rgb(214, 220, 228);
+}
+.total-number-div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0;
+    margin: 0;
+    position: relative;
+}
+.inner-number {
+    width: 100%;
+    height: 100%;
+    font-size: 3em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.net-promotor {
+    padding: 4em 0;
+    background-color: #fff;
+}
+.numberdiv.number78 {
+    background-color: #8497b0;
+    color: #fff;
+}
+.numberdiv.number910 {
+    background-color: #44546a;
+    color: #fff;
+}
+/* -------------------- Net Promoter Score code css ------------------ */
+
+/* -------------------- Customer Journey Mappingcode css ------------------ */
+.customer-journey {
+  display: block;
+  text-align: center;
+}
+.touchpoint-title {
+    font-weight: 500;
+    font-size: 1.2em;
+    margin-top: 0.8em;
+}
+.values-form-deve.customer-journey-int-ot input {
+    border-radius: 0;
+}
+.values-form-deve.customer-journey-int-ot {
+    font-size: 15px;
+    padding: 0;
+    margin: 0;
+    border-radius: 0;
+    width: 27.9em;
+}
+.values-form-deve.customer-journey-int-ot input:hover {
+  border-radius: unset;!important;
+}
+/* -------------------- Customer Journey Mappingcode css ------------------ */
+
+/* --------------------  Voice of the Customer Table css ------------------ */
+.voice-of-the-main-div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 20em;
+}
+/* --------------------  Voice of the Customer Table css ------------------ */
+
+/* --------------------  What's Driving Growth Table css ------------------ */
+tbody.add-font-class tr td {
+    font-size: 1.1em!important;
+}
+/* --------------------  What's Driving Growth Table css ------------------ */
+
+/* --------------------  What's Driving Growth Table css ------------------ */
+.customer-ac {
+    writing-mode: tb;
+    margin-right: 0!important;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transform: rotate(180deg);
+    letter-spacing: 0.5px;
+}
+.dfdslfkd {
+  writing-mode: tb;
+    margin-right: 0!important;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transform: rotate(180deg);
+    letter-spacing: 0.5px;
+}
+/* --------------------  What's Driving Growth Table css ------------------ */
+
+/* --------------------  120 Growth - Return On Investment Table css ------------------ */
+.Growth-Assurance {
+    display: block;
+    width: 78em;
+}
+.dolor-icon {
+    display: flex;
+    justify-content: space-between;
+    color: #000;
+    padding: 0 8px;
+}
+/* --------------------  120 Growth - Return On Investment Table css ------------------ */
+
+/* --------------------  Creating Growth Momentum Table css ------------------ */
+.Starting-main-div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+/* --------------------  Creating Growth Momentum Table css ------------------ */
+
+/* --------------------  Competitive Analysis Table css ------------------ */
+.content-per {
+    writing-mode: tb-rl;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+    margin: 0;
+    width: 30px;
+    font-size: 1.2em;
+}
+.content-per1 {
+    writing-mode: tb-rl;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+    margin: 0;
+    width: 30px;
+    font-size: 1.2em;
+}
+/* --------------------  Competitive Analysis Table css ------------------ */
+
+/* --------------------  This is what 1% improvements can do Table css ------------------ */
+.add-new-card-this {
+  min-height: 404px;
+}
+.add-new-card-this2 {
+  min-height: 318px;
+}
+canvas.primeiro-height-set {
+  height: 332px!important;
+}
+canvas.primeiro-height-set2 {
+  height: 270px!important;
+}
+h4.title-h4 {
+    padding: 15px;
+    margin: 0;
+    line-height: 1.2em!important;
+    padding-bottom: 0;
+}
+/* --------------------  This is what 1% improvements can do Table css ------------------ */
+
+/* --------------------  Five Forces Framework Table css ------------------ */
+.five-forces-d {
+    width: 4em;
+}
+.add-newforces-div, .add-newforces-div2 {
+    width: 506px;
+}
+.add-new-custo { 
+    width: 72em;
+}
+.message-content {
+    display: block;
+    width: 28em;
+}
+.add-new-whole-d {
+    width: 558px;
+    display: block;
+}
+span.forces-span.mx-0 {
+    font-size: 1.1em;
+    line-height: 1.1em;
+}
+.title-scql {
+    width: 386px;
+}
+/* --------------------  Five Forces Framework Table css ------------------ */
+
+/* --------------------  login form css ------------------ */
+.login-form-main {
+  /*background: #f6f5f7;*/
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-family: 'Montserrat', sans-serif;
+  height: 95vh;
+  /*margin: -20px 0 50px;*/
+}
+
+.login-form-main h1 {
+  font-weight: bold;
+  margin: 0;
+}
+
+.login-form-main h2 {
+  text-align: center;
+}
+
+.login-form-main p {
+  font-size: 14px;
+  font-weight: 100;
+  line-height: 20px;
+  letter-spacing: 0.5px;
+  margin: 20px 0 30px;
+}
+
+.login-form-main span {
+  font-size: 12px;
+}
+
+.login-form-main a {
+  color: #333;
+  font-size: 14px;
+  text-decoration: none;
+  margin: 15px 0;
+}
+
+.login-form-main button {
+  border-radius: 20px;
+  border: 1px solid #44546A;
+  background-color: #44546A;
+  color: #FFFFFF;
+  font-size: 12px;
+  font-weight: bold;
+  padding: 12px 45px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  transition: transform 80ms ease-in;
+}
+
+.login-form-main button:active {
+  transform: scale(0.95);
+}
+
+.login-form-main button:focus {
+  outline: none;
+}
+
+.login-form-main button.ghost {
+  background-color: transparent;
+  border-color: #FFFFFF;
+}
+
+.login-form-main form {
+  background-color: #FFFFFF;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 0 10px;
+  height: 100%;
+  text-align: center;
+}
+
+.login-form-main input {
+  background-color: #eee;
+  border: none;
+  padding: 12px 15px;
+  margin: 8px 0;
+  width: 100%;
+}
+
+.login-form-main .container {
+  background-color: #fff;
+  border-radius: 10px;
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 
+      0 10px 10px rgba(0,0,0,0.22);
+  position: relative;
+  overflow: auto;
+  width: 768px;
+  max-width: 100%;
+  height: 480px;
+}
+
+.login-form-main .form-container {
+  position: absolute;
+  top: 0;
+  height: 100%;
+  transition: all 0.6s ease-in-out;
+}
+
+.login-form-main .sign-in-container {
+  left: 0;
+  width: 50%;
+  z-index: 2;
+}
+
+.login-form-main .container.right-panel-active .sign-in-container {
+  transform: translateX(100%);
+}
+
+.login-form-main .sign-up-container {
+  left: 0;
+  width: 50%;
+  opacity: 0;
+  z-index: 1;
+}
+
+.login-form-main .container.right-panel-active .sign-up-container {
+  transform: translateX(100%);
+  opacity: 1;
+  z-index: 5;
+  animation: show 0.6s;
+}
+
+@keyframes show {
+  0%, 49.99% {
+    opacity: 0;
+    z-index: 1;
+  }
+  
+  50%, 100% {
+    opacity: 1;
+    z-index: 5;
+  }
+}
+
+.login-form-main .overlay-container {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  width: 50%;
+  height: 100%;
+  overflow: hidden;
+  transition: transform 0.6s ease-in-out;
+  z-index: 100;
+}
+
+.login-form-main .container.right-panel-active .overlay-container{
+  transform: translateX(-100%);
+}
+
+.login-form-main .overlay {
+  background-color: #44546a;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 0 0;
+  color: #FFFFFF;
+  position: relative;
+  left: -100%;
+  height: 100%;
+  width: 200%;
+    transform: translateX(0);
+  transition: transform 0.6s ease-in-out;
+}
+#container > div.overlay-container > div > div.overlay-panel.overlay-right > h1,
+#container > div.overlay-container > div > div.overlay-panel.overlay-left > h1 {
+  color: #fff;
+}
+.login-form-main .container.right-panel-active .overlay {
+    transform: translateX(50%);
+}
+
+.login-form-main .overlay-panel {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 0 40px;
+  text-align: center;
+  top: 0;
+  height: 100%;
+  width: 50%;
+  transform: translateX(0);
+  transition: transform 0.6s ease-in-out;
+}
+
+.login-form-main .overlay-left {
+  transform: translateX(-20%);
+}
+
+.login-form-main .container.right-panel-active .overlay-left {
+  transform: translateX(0);
+}
+
+.login-form-main .overlay-right {
+  right: 0;
+  transform: translateX(0);
+}
+
+.login-form-main .container.right-panel-active .overlay-right {
+  transform: translateX(20%);
+}
+
+.login-form-main .social-container {
+  margin: 20px 0;
+}
+
+.login-form-main .social-container a {
+  border: 1px solid #DDDDDD;
+  border-radius: 50%;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 5px;
+  height: 40px;
+  width: 40px;
+}
+
+.login-form-main footer {
+    background-color: #44546a;
+    color: #fff;
+    font-size: 14px;
+    bottom: 0;
+    position: fixed;
+    left: 0;
+    right: 0;
+    text-align: center;
+    z-index: 999;
+}
+
+.login-form-main footer p {
+    margin: 10px 0;
+}
+
+.login-form-main footer i {
+    color: red;
+}
+
+.login-form-main footer a {
+    color: #3c97bf;
+    text-decoration: none;
+}
+.logo-image {
+    background-color: #fff;
+    padding: 0.5rem;
+    border-radius: 0.3rem;
+    width: 120px;
+    height: 68px;
+}
+
+.logo-image img {
+    width: 100%;
+    height: 100%;
+}
+
+.logo-image > a {
+    width: 100%;
+    height: 100%;
+    display: block;
+    margin: 0;
+}
+
+.user-dropdown-list .c {
+  display: flex;
+  align-items: center;
+  justify-content: end;
+  height:100%;
+  width:100%;
+      padding-right: 2rem;
+    padding-top: 1rem;
+}
+.dd {
+  z-index:1;
+  position:relative;
+  display: inline-block;
+}
+.dd-a {
+  padding:10px;
+  background:white;
+  position:relative;
+  -webkit-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+  box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+  transition-duration: 0.2s;
+  -webkit-transition-duration: 0.2s;
+}
+.dd input:after {
+  content:"";
+  width:100%;
+  height:2px;
+  position:absolute;
+  display:block;
+  background:#C63D0F;
+  bottom:0;
+  left:0;
+  transform: scaleX(0);
+  transform-origin: bottom left;
+  transition-duration: 0.2s;
+  -webkit-transform: scaleX(0);
+  -webkit-transform-origin: bottom left;
+  -webkit-transition-duration: 0.2s;
+}
+.dd input {
+  top:0;
+  opacity:0;
+  display:block;
+  padding:0;
+  margin:0;
+  border:0;
+  position:absolute;
+  height:100%;
+  width:100%;
+}
+.dd input:hover {
+  cursor:pointer;
+}
+.dd input:hover ~ .dd-a {
+  -webkit-box-shadow: 0px 0px 15px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: 0px 0px 15px 0px rgba(0,0,0,0.75);
+  box-shadow: 0px 0px 15px 0px rgba(0,0,0,0.75);
+}
+.dd input:checked:after {
+  transform: scaleX(1);
+  -webkit-transform: scaleX(1);
+}
+.dd input:checked ~ .dd-c {
+  transform: scaleY(1);
+  -webkit-transform: scaleY(1);
+}
+.dd-a span {
+    color: #fffdfc;
+    font-size: 15px;
+    margin: 0;
+    padding: 0;
+}
+.dd-a {
+    width: 200px;
+    height: 35px;
+    line-height: 50px;
+    display: block;
+    text-align: center;
+    padding: 0!important;
+    background-color: #44546a;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.dd-c{
+  display:block;
+  position: absolute;
+  right: 0;
+  top: 3rem;
+  background:white;
+  height:auto;
+  transform: scaleY(0);
+  transform-origin: top left;
+  transition-duration: 0.2s;
+  -webkit-transform: scaleY(0);
+  -webkit-transform-origin: top left;
+  -webkit-transition-duration: 0.2s;
+}
+.dd-c:before {
+    content: "";
+    width: 10px;
+    display: block;
+    height: 10px;
+    background-color: white;
+   /* border: 1px solid #000;*/
+    position: absolute;
+    right: 25px;
+    top: -6px;
+    transform: rotate(45deg);
+    z-index: -1;
+}
+.dd-c {
+    width: 200px;
+    height: auto;
+    box-shadow: 0px 0px 5px 0px rgb(0 0 0 / 75%);
+}
+.dd-c ul {
+  margin:0;
+  padding:0;
+  list-style-type: none;
+}
+.dd-c li {
+  margin-botom:5px;
+  word-break: keep-all;
+  white-space:nowrap;
+  display:block;
+  position:relative;
+}
+.user-dropdown-list a {
+  display:block;
+  position:relative;
+  text-decoration: none;
+  padding:5px;
+  color:#000;
+  font-weight: bold;
+}
+.user-dropdown-list a:before {
+  z-index:0;
+  content:"";
+  position:absolute;
+  display:block;
+  height:100%;
+  width:100%;
+  -webkit-transition-duration: 0.2s;
+  transition-duration: 0.2s;
+  transform-origin:top left;
+  -webkit-transform-origin:top left;
+  background: #44546a;
+  top:0;
+  left:0;
+  transform: scaleX(0);
+  -webkit-transform: scaleX(0);
+}
+.user-dropdown-list a span {
+  display:block;
+  position:relative;
+  -webkit-transition-duration: 0.2s;
+  transition-duration: 0.2s;
+}
+.user-dropdown-list a:hover:before {
+  transform:scaleX(1);
+  -webkit-transform:scaleX(1);
+}
+.user-dropdown-list a:hover span {
+  color:white;
+}
+span.username-ds {
+    font-family: 'Open Sans';
+    font-size: 12px;
+    padding-left: 2px;
+}
+/* --------------------  login form css ------------------ */
+
+/* --------------------  user profile form css ------------------ */
+.mian-form-div-outer {
+  justify-content: center;
+  align-items: center;
+  /*height: 78vh;*/
+  padding: 5rem 0;
+}
+.inner-main-div {
+-webkit-box-shadow: 0px 0px 15px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: 0px 0px 15px 0px rgba(0,0,0,0.75);
+  box-shadow: 0px 0px 15px 0px rgba(0,0,0,0.75);
+  padding: 2rem;
+
+}
+.inner-main-div form {
+    background-color: #FFFFFF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 0 10px;
+    height: 100%;
+    text-align: center;
+}
+.inner-main-div h1 {
+    font-weight: bold;
+    margin: 0;
+}
+.inner-main-div span {
+    font-size: 12px;
+}
+.inner-main-div input {
+    background-color: #eee;
+    border: none;
+    padding: 12px 15px;
+    margin: 8px 0;
+    width: 100%;
+}
+.inner-main-div .col-md-6 {
+  padding-left: 0;
+}
+.inner-main-div .col-md-6:nth-child(4) {
+  padding-right: 0;
+}
+.inner-main-div .col-md-6:nth-child(2) {
+  padding-right: 0;
+}
+.inner-main-div button {
+    border-radius: 20px;
+    border: 1px solid #44546A;
+    background-color: #44546A;
+    color: #FFFFFF;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 12px 45px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    transition: transform 80ms ease-in;
+}
+/* --------------------  user profile form css ------------------ */
+
+/* -------------------- media query code css ------------------ */
+@media only screen and (max-width: 1359px) {
+  .position-relative-div th:before, .position-relative-div th:after, .addline:before, .addline3:before {
+    display: none;
+  }
+}
+@media only screen and (max-width: 1199px) {
+  .dsdbjfkdsgfk {
+    display: block;
+    width: 220px;
+  }
+  .new-add-cls-ssw {
+    width: 650px;
+    display: block;
+  }
+  .mian-form-div-outer {
+    justify-content: center;
+    align-items: center;
+    height: auto!important;
+  }
+}
+@media only screen and (max-width: 767px) {
+  .head-title {
+      margin-top: 100px;
+  }
+  .head-title h2 {
+      font-size: 30px!important;
+      line-height: 1.2em;
+      margin-bottom: 15px;
+  }
+  .curtomer-row .col-12:first-child {
+    margin-bottom: 2em;
+  }
+  .curtomer-row {
+    padding: 2em 0;
+  }
+.login-form-main .sign-up-container {
+    left: 0;
+    width: 100%;
+    opacity: 0;
+    z-index: 1;
+}
+.login-form-main .sign-in-container {
+    left: 0;
+    width: 100%;
+    z-index: 2;
+}
+.login-form-main .overlay-container {
+    position: absolute;
+    top: 0;
+    left: 100%;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    transition: transform 0.6s ease-in-out;
+    z-index: 100;
+}
+.login-form-main .container {
+  width: 325px;
+}
+.user-dropdown-list .c {
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    height: 100%;
+    width: 100%;
+}
+.dd {
+    position: absolute;
+    top: 13px;
+    right: 40px;
+}
+.desktop-menu-div {
+  display: none;
+}
+.user-dropdown-list a {
+  font-size: 13px;
+  text-align: left;
+}
+.dd-a {
+  width: 65px;
+}
+.dd-c {
+    width: 100px;
+    height: auto;
+    box-shadow: 0px 0px 5px 0px rgb(0 0 0 / 75%);
+}
+.dd-c:before {
+    content: "";
+    width: 10px;
+    display: block;
+    height: 10px;
+    background-color: white;
+    /* border: 1px solid #000; */
+    position: absolute;
+    right: 10px;
+    top: -6px;
+    transform: rotate(45deg);
+    z-index: -1;
+}
+.position-relative-div td:before, .position-relative-div td:after {
+  display: none;
+}
+.mian-form-div-outer {
+    justify-content: center;
+    align-items: center;
+    height: 78vh;
+    margin-top: 4rem!important;
+}
+.inner-main-div {
+    -webkit-box-shadow: 0px 0px 15px 0px rgb(0 0 0 / 75%);
+    -moz-box-shadow: 0px 0px 15px 0px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 15px 0px rgb(0 0 0 / 75%);
+    padding: 2rem 0.5rem;
+}s
+
+
+}
+@media (min-width: 768px){
+  .net-promotor .col-xl-6 {
+      flex: 0 0 auto;
+      width: 60%;
+  }
+  .net-promotor .col-xl-3 {
+      flex: 0 0 auto;
+      width: 20%;
+  }
+  .mobile-menu-div {
+    display: none;
+  }
+}
+/* -------------------- media query code css ------------------ */
+
+
+

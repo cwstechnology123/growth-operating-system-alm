@@ -1,0 +1,50 @@
+/* ======================= set media query max-width : 1024 ===================== */
+@media only screen and (max-width: 1024px) {
+
+    .righttside h3 {
+        font-size: 1.3em;
+    }
+    .righttside ul li a {
+        font-size: 1.3em;
+        line-height: 1.2em;
+    }
+    .bench1.lightblue {
+        background-color: #4DABDA;
+        min-height: 145px;
+    }
+    .bench1.lighterblue {
+        background-color: #192E5B;
+        min-height: 145px;
+    }
+
+}
+
+/* ======================= set media query max-width : 768 to 991 ===================== */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .add-new-d .col-md-6 {
+        margin-bottom: 30px;
+    }
+}
+
+/* ======================= set media query max-width : 767 ===================== */
+@media only screen and (max-width: 767px) {
+
+    .righttside h3 {
+        font-size: 1.0em;
+    }
+    .righttside ul li a {
+        font-size: 1.0em;
+        line-height: 1.1em;
+    }
+
+    .leeftside i {
+        color: #fff!important;
+        font-size: 2.2em!important;
+    }
+    .leeftside {
+        width: 50px!important;
+        height: 50px!important;
+        margin-bottom: 0!important;
+    }
+
+}
